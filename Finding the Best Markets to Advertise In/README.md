@@ -9,7 +9,7 @@ In this project, we are working for an e-learning company who is looking to inve
 - The product is only available in the English language
 - The company's main focus is web and development courses
 
-### Available data:
+### Data:
 - [2017-fCC-New-Coders-Survey-Data.csv](https://github.com/capvkd/portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/2017-fCC-New-Coders-Survey-Data.csv): 2018 results for a survey of new coders conducted by freeCodeCamp, an e-learning platform with a large Medium publication.
 
 ### Project Steps
