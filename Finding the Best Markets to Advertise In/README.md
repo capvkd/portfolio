@@ -17,3 +17,4 @@ The first part of the project checks the data to confirm that it is representati
 
 Once this is confirmed, we then work to narrow down the markets we do our analysis on, based on population density. For the sake of this project, each country represented in the data is its own market.
 
+Next, we analyze the amount of money respondents are willing to spend in learning 
