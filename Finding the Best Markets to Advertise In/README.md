@@ -10,7 +10,7 @@ In this project, we are working for an e-learning company who is looking to inve
 - The company's main focus is web and development courses
 
 ### Data:
-- [2017-fCC-New-Coders-Survey-Data.csv](https://github.com/capvkd/portfolio/blob/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In/2017-fCC-New-Coders-Survey-Data.csv): 2018 results for a survey of new coders conducted by freeCodeCamp, an e-learning platform with a large Medium publication.
+- [2017-fCC-New-Coders-Survey-Data.csv](https://github.com/freeCodeCamp/2017-new-coder-survey): 2017 results for a survey of new coders conducted by freeCodeCamp, an e-learning platform with a large Medium publication.
 
 ### Project Steps
 The first part of the project checks the data to confirm that it is representative of the population we're looking to analyze.
