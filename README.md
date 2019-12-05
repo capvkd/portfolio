@@ -1,3 +1,4 @@
 # portfolio
 
-[Finding the Best Markets to Advertise In](https://github.com/capvkd/portfolio/tree/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In): using survey data to determine the best two markets for an e-learning company to focus their marketing campaign in.
+[Finding the Best Markets to Advertise In](https://github.com/capvkd/portfolio/tree/master/Finding%20the%20Best%20Markets%20to%20Advertise%20In): Use survey data to determine the best two markets for an e-learning company to focus their marketing campaign in.
+[Mobile App for Lottery Addiction](https://github.com/capvkd/portfolio/tree/master/Mobile%20App%20for%20Lottery%20Addiction): Create the underlying probability calculation logic for an app aimed towards lottery addicts. The app will tell users their probability of winning the lotto.
