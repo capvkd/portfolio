@@ -12,9 +12,9 @@ For this project, we are asked to answer the following questions:
 2. Based on this data, and only this data, what is the average monthly churn and total annual churn of employees in this market?
 3. If you had to decide between digital hiring, flyers, or hiring events, which strategy would you use? Why?
 4. Assume the following employee acquisition cost, and calculate the total spend on hiring for the year.
-  1. Digital ads - $200/employee
-  2. Flyers - $10/employee
-  3. Hiring Events - $1000/mo (regardless of number of hires)
+    1. Digital ads - $200/employee
+    2. Flyers - $10/employee
+    3. Hiring Events - $1000/mo (regardless of number of hires)
 
 ### Spreadsheet
 `data`: Contains all the raw data named in the problem statement.
