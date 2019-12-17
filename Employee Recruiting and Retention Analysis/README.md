@@ -18,4 +18,5 @@ For this project, we are asked to answer the following questions:
 
 ### Spreadsheet
 `data`: Contains all the raw data named in the problem statement.
+
 `analysis`: Contains our analysis, as well as the answers to the questions in the problem statement.
