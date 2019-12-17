@@ -10,7 +10,7 @@ The company currently staffs two different shifts each day – an AM shift (8:00
 Below is information about the arrival of inbound customer conversations. 
 
 **Table 1 – Count of Inbound Conversations Per Hour**
-||Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
+|Hour|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 |----|----|----|-----|-----|-----|-----|-----|
 |8:00	|9	|13	|13	|15	|15	|15	|13 |
 |9:00	|13	|19	|19	|21	|21	|21	|19 |
