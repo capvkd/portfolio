@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 - [Answering Business Questions using SQL](https://github.com/capvkd/portfolio/tree/master/Answering%20Business%20Questions%20using%20SQL): Use the SQLite package in Python to query a company's database in order to provide insights and recommendations for different business scenarios. 
 - [Cost Reduction Analysis](https://github.com/capvkd/portfolio/tree/master/Cost%20Reduction%20Analysis): An Excel porject where we're tasked with reducing the labor cost for a customer support team by a minimum of 10%.
