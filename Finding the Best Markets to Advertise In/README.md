@@ -4,7 +4,7 @@
 
 In this project, we are working for an e-learning company who is looking to invest in a marketing campaign. We are tasked with finding the two best markets for the company to focus their marketing efforts on.
 
-### Assumtions:
+### Assumptions:
 - The products cost $100 per month
 - The product is only available in the English language
 - The company's main focus is web and development courses
